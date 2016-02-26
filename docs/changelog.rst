@@ -1,6 +1,11 @@
 Change Log
 ==========
 
+New in version 1.5.1-eea
+------------------------
+
+Fix segfaults
+
 New in version 1.5.0
 --------------------
 
